@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+div {
+    padding: 10px;
+}
+
+.divWidth {
+    margin: auto;
+    width: 97%;
+}
+
+.divBorder {    
+    border: 1px solid black;
+}
+
+.master {
+    margin: 0 auto;
+    max-width: 1040px;
+    width: 100%;
+    background-color: beige;
+}
+
+.video {
+	display : flex;
+	flex-wrap : wrap;
+	justify-content : center;
+}
+
+.button {
+    background-color: cadetblue;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 183px;
+}
+
+#aboutMe {
+    background-color: floralwhite;
+}
+
+#academicGoals {
+    background-color: azure;
+}
+
+#professionalGoals {
+    background-color: cornsilk;
+}
+
+#internetTech {
+    background-color: gainsboro;
+}
